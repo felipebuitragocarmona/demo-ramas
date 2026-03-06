@@ -10,3 +10,5 @@ def palindromo(s):
 
 print(palindromo("Ana"))  # True
 print(palindromo("Hola"))  # False
+
+print("que día tan loco, ya terminé")
